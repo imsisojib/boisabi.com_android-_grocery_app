@@ -1,4 +1,4 @@
-![Boisabi.com Icon]((https://github.com/imsisojib/boisabi.com_android-_grocery_app/blob/master/screenshots/boisabi.com.jpg  =100x100)
+![Boisabi.com Icon](https://github.com/imsisojib/boisabi.com_android-_grocery_app/blob/master/screenshots/boisabi.com.jpg  =100x100)
 
 # Boisabi.com -Android Grocery App
 Boisabi.com is my very first production app from **Brogrammers** sister concern of [BROTECHIT](https://brotechit.com/home "Website Link"). 
